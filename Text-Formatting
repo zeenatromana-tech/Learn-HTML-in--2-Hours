@@ -1,0 +1,8 @@
+<b>Bold Text</b>
+<i>Italic Text</i>
+<u>Underline Text</u>
+<strong>Important Text</strong>
+
+<!-- Example: -->
+
+<p>This is <b>bold</b> and <i>italic</i> text.</p>
