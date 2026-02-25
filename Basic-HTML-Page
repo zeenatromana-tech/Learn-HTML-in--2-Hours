@@ -1,0 +1,22 @@
+<!-- Create a file named index.html and add the following code: -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+
+<h1>Hello World</h1>
+<p>This is my first HTML webpage.</p>
+
+</body>
+</html>
+<!-- Tag	Description
+<html>	Root element of the webpage
+<head>	Contains metadata and title
+<title>	Title shown in browser tab
+<body>	Visible content of the webpage 
+save file with .html
+-->
+
