@@ -1,0 +1,7 @@
+<!-- Links allow users to navigate to other pages. -->
+
+<a href="https://www.google.com">Visit Google</a>
+
+<!-- Open link in a new tab: -->
+
+<a href="https://www.google.com" target="_blank">Open Google</a>
