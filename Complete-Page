@@ -1,0 +1,43 @@
+<!-- Example Complete Page -->
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+</head>
+
+<body>
+
+<h1>Welcome to My Website</h1>
+
+<p>This is my first HTML website.</p>
+
+<h2>My Hobbies</h2>
+
+<ul>
+<li>Coding</li>
+<li>Reading</li>
+<li>Traveling</li>
+</ul>
+
+<h2>Contact</h2>
+
+<form>
+Name: <input type="text"><br><br>
+Email: <input type="email"><br><br>
+<input type="submit">
+</form>
+
+</body>
+</html>
+
+<!-- How to Run the Project -->
+
+1. Install Visual Studio Code.
+2. Create a new file called **index.html**.
+3. Copy and paste the HTML code.
+4. Save the file.
+5. Open the file in your web browser.
+
+
+
+
