@@ -1,0 +1,9 @@
+<img src="image.jpg" alt="Example Image" width="200">
+
+<!-- Attributes used: 
+
+src – image location
+
+alt – description if image fails to load
+
+width – image size -->
